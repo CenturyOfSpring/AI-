@@ -1,6 +1,8 @@
 本软件包旨在于模仿并重写On E cient and Scalable Computation of the Nonparametric
  Maximum Likelihood Estimator in Mixture Models论文的代码内容！！！
 
+https://github.com/YangjingZhang/Dual-ALM-for-NPMLE/blob
+
 本软件包为基于 MATLAB 实现的**混合模型非参数最大似然估计计算工具。该工具采用增广拉格朗日方法与部分期望最大化方法**作为主要数值优化策略，用于高效求解大规模混合模型中的非参数估计问题。
 
 其中，核心求解器包括：
